@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sai Bhanu Mathurthi</h1>
 <h3 align="center">Self-taught developer, Life time learner</h3>
 
-- 🔭 I’m currently looking for job as **Frontend Developer**
+- 🔭 I’m currently working as **Frontend Developer**
 
-- 🌱 I’m currently learning **React, React-Redux**
+- 🌱 I’m currently learning **Next.js, enact.js, react-native**
 
 - 👯 I’m looking to collaborate on **React**
 
