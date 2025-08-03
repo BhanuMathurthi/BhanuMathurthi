@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sai Bhanu Mathurthi</h1>
 <h3 align="center">Self-taught developer, Life time learner</h3>
 
-- 🔭 I’m currently working as **Frontend Developer**
+- 🔭 I’m currently working as **React.js Frontend Developer**
 
-- 🌱 I’m currently learning **Next.js, enact.js, react-native**
+- 🌱 I’m currently learning **Devops**
 
-- 👯 I’m looking to collaborate on **React**
+- 👯 I’m looking to collaborate on **React.js , Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BhanuMathurthi](https://github.com/BhanuMathurthi)
 
