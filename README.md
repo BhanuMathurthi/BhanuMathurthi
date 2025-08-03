@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Bhanu Mathurthi</h1>
-<h3 align="center">Self-taught developer, Life time learner</h3>
+<h3 align="center">Aspiring Devops Engineer</h3>
 
 - 🔭 I’m currently working as **React.js Frontend Developer**
 
