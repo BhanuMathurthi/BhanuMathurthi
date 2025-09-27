@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sai Bhanu Mathurthi</h1>
-<h3 align="center">Aspiring DevOps Engineer</h3>
+<h3 align="center">Aspiring DevSecOps Engineer</h3>
 
 - 🔭 I’m currently working as **React.js Frontend Developer**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DevSecOps**
 
 - 👯 I’m looking to collaborate on **React.js , Next.js**
 
